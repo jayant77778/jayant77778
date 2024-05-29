@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jayant Bhati!
+# Hi there 👋, I'm Jayant Bhati
 
 Welcome to my GitHub profile! I'm a third-year undergraduate actively pursuing a DevOps career, combining a passion for problem-solving with a dedication to learning.
 
